@@ -13,8 +13,8 @@ export const AMINO_ACID_COLORS: Record<AminoAcid | string, string> = {
     'D': '#fc9cac', // Aspartic acid
     'C': '#ffea00', // Cysteine
     'E': '#fc9cac', // Glutamic acid
-    'Q': '#80bfff', // Glutamine
-    'G': '#67e4a6', // Glycine
+    'Q': '#ff00ff', // Glutamine
+    'G': '#c4c4d4', // Glycine
     'H': '#80bfff', // Histidine
     'I': '#67e4a6', // Isoleucine
     'L': '#67e4a6', // Leucine
@@ -40,7 +40,7 @@ export const AMINO_ACID_GROUPS = {
         acids: ['A', 'I', 'L', 'M', 'F', 'W', 'Y', 'V', 'P'] as AminoAcid[]
     },
     'Глицин': {
-        color: '#67e4a6',
+        color: '#c4c4d4',
         acids: ['G'] as AminoAcid[]
     },
     'Отрицательно заряженные': {
