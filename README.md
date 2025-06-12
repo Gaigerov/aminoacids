@@ -7,7 +7,7 @@
 
 Интерактивный инструмент для визуализации выравнивания аминокислотных последовательностей с анимацией и биоинформатическим анализом.
 
-![Screenshot of the application](public/screenshot.png)
+![Screenshot of the application](https://raw.githubusercontent.com/gaigerov/aminoacids/main/public/screenshot.png)
 
 ## ✨ Особенности
 
@@ -78,13 +78,13 @@ npm run deploy
 
 | Группа | Цвет | Аминокислоты |
 |--------|------|--------------|
-| Цистеин | ![#ffea00](https://via.placeholder.com/15/ffea00/000000?text=+) `#ffea00` | C |
-| Гидрофобные | ![#67e4a6](https://via.placeholder.com/15/67e4a6/000000?text=+) `#67e4a6` | A, I, L, M, F, W, Y, V, P |
-| Глицин | ![#c4c4d4](https://via.placeholder.com/15/c4c4d4/000000?text=+) `#c4c4d4` | G |
-| Отрицательно заряженные | ![#fc9cac](https://via.placeholder.com/15/fc9cac/000000?text=+) `#fc9cac` | D, E |
-| Положительно заряженные | ![#bb99ff](https://via.placeholder.com/15/bb99ff/000000?text=+) `#bb99ff` | K, R |
-| Полярные незаряженные | ![#80bfff](https://via.placeholder.com/15/80bfff/000000?text=+) `#80bfff` | S, T, H, Q, N |
-| Пробел | ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) `#ffffff` | - |
+| Цистеин | ![#ffea00](https://img.shields.io/badge/-%23ffea00-ffea00) `#ffea00` | C |
+| Гидрофобные | ![#67e4a6](https://img.shields.io/badge/-%2367e4a6-67e4a6) `#67e4a6` | A, I, L, M, F, W, Y, V, P |
+| Глицин | ![#c4c4d4](https://img.shields.io/badge/-%23c4c4d4-c4c4d4) `#c4c4d4` | G |
+| Отрицательно заряженные | ![#fc9cac](https://img.shields.io/badge/-%23fc9cac-fc9cac) `#fc9cac` | D, E |
+| Положительно заряженные | ![#bb99ff](https://img.shields.io/badge/-%23bb99ff-bb99ff) `#bb99ff` | K, R |
+| Полярные незаряженные | ![#80bfff](https://img.shields.io/badge/-%2380bfff-80bfff) `#80bfff` | S, T, H, Q, N |
+| Пробел | ![#ffffff](https://img.shields.io/badge/-%23ffffff-ffffff) `#ffffff` | - |
 
 ## 📄 Лицензия
 
