@@ -1,4 +1,4 @@
-# 🧬 Protein Sequence Alignment Tool
+# 🧬 Инструмент для выравнивания аминокислотных последовательностей
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://gaigerov.github.io/aminoacids)
 [![React](https://img.shields.io/badge/React-18.2-blue)](https://reactjs.org/)
