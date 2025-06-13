@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import {useEffect, useState} from 'react';
 import {Box} from '@mui/material';
 import {AMINO_ACID_GROUPS, AminoAcid, AminoAcidGroupKey} from '../utils/aminoAcids';
