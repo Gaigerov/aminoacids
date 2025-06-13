@@ -29,7 +29,7 @@ export default function SequenceComparison({seq1, seq2}: SequenceComparisonProps
                     variant="outlined"
                     onClick={() => setShowChains(!showChains)}
                 >
-                    {showChains ? 'Hide Chains' : 'Show Animated Chains'}
+                    {showChains ? 'Скрыть цепочки' : 'Показать анимацию'}
                 </Button>
             </Box>
 
